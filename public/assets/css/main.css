@@ -1,0 +1,22 @@
+.validate-error {
+margin-bottom: 15px;
+color: red;
+margin-top: -15px;
+font-size: 15px;
+}
+.search-area {
+margin-bottom: 20px;
+}
+.search-area h4 {
+margin-top: 3px;
+}
+.search-area .button-area {
+text-align: right;
+}
+#search {
+display: none;
+}
+
+
+
+
